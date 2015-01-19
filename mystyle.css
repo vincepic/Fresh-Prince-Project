@@ -1,0 +1,26 @@
+body {
+	background-color: #CCCCFF;
+}
+
+h1 {
+	font: georgia;
+	color: #FF0000;
+}
+
+h2 {
+	font: georgia;
+	color: #FF0033;
+}
+
+ul {
+	font: sans-serif;
+	color: black;
+}
+
+p {
+	font: sans-serif;
+}
+
+footer{
+	font: serif;
+}
